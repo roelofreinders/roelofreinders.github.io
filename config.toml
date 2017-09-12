@@ -42,8 +42,6 @@ preserveTaxonomyNames = true
   name = "Roelof"
 
 [author.social]
-  #codepen = "MunifTanjim"
-  #email = "contact@example.com"
   facebook = "roelofreinders"
   github = "roelofreinders"
   instagram = "roelof4"
