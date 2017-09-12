@@ -11,7 +11,7 @@ Paginate = 5
 preserveTaxonomyNames = true
 
 [params]
-  description = "Thoughts & creations"
+  description = "thoughts & creations"
   dateFormat = "2006, Jan 2"
   copyrightOwner = "Roelof Reinders"
   copyrightStartYear = "2017"
