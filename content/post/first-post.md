@@ -4,7 +4,7 @@ categories:
 tags:
   - news
   - words
-title: "Welcome to my webpage"
+title: "Welcome to my website"
 slug: "Welcome message"
 date: "2017-09-12T22:06:28+02:00"
 draft: false
