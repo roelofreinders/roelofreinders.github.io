@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Roelof Reinders</title>
+    <link>http://roelofreinders.github.io/tags/news/</link>
+    <description>Recent content in News on Roelof Reinders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 12 Sep 2017 22:06:28 +0200</lastBuildDate>
+    
+	<atom:link href="http://roelofreinders.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to my webpage</title>
+      <link>http://roelofreinders.github.io/post/welcome-message/</link>
+      <pubDate>Tue, 12 Sep 2017 22:06:28 +0200</pubDate>
+      
+      <guid>http://roelofreinders.github.io/post/welcome-message/</guid>
+      <description>Welcome In the future, I will use this website to share my thoughts and creations. I hope you will enjoy your stay!</description>
+    </item>
+    
+  </channel>
+</rss>
