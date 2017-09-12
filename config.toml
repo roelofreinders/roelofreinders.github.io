@@ -1,3 +1,70 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "http://roelofreinders.github.io"
+title = "Roelof Reinders"
+copyright = ""
+
+theme = "minimo"
+
+disqusShortname = ""
+googleAnalytics = ""
+Paginate = 5
+
+preserveTaxonomyNames = true
+
+[params]
+  description = "Thoughts & creations"
+  dateFormat = "2006, Jan 2"
+  copyrightOwner = "Roelof Reinders"
+  copyrightStartYear = "2017"
+  favicon = "favicon.ico"
+  hideEntryNavigation = false
+  customCSS = ["css/custom.css"]
+  customJS = ["js/custom.js"]
+  hideSocialMenu = false
+  showReadTime = true
+
+[params.seo]
+  # Title Separator: - – — · • * ⋆ | ~ « » < >
+  titleSeparator = "•"
+
+[params.opengraph]
+  [params.opengraph.facebook]
+    admins = ""
+    appid = ""
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[social]
+  facebook = ""
+
+[author]
+  name = "Minimo"
+
+[author.social]
+  #codepen = "MunifTanjim"
+  #email = "contact@example.com"
+  facebook = "roelofreinders"
+  github = "roelofreinders"
+  instagram = "roelof4"
+  twitter = "roelofreinders"
+  linkedin = "roelof-reinders-b36592b"
+
+[permalinks]
+  page = "/:slug/"
+
+[[menu.main]]
+  # name = "Repo"
+  weight = -70
+  identifier = "roelofreinders"
+  url = "https://roelofreinders.github.io"
+
+# Language Configuration
+defaultContentLanguage = "en"
+
+[languages]
+  # edit this block for your own language
+  [languages.en]
+    lang = "en"
+    languageName = "English"
+    weight = 1
