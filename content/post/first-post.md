@@ -11,4 +11,4 @@ draft: false
 ---
 ## Welcome
 
-In the future, I will use this website to share my thoughts and creations. I hope you will enjoy your stay!
+In the future, I will use this website to share my thoughts and creations. I hope you enjoy your stay!
