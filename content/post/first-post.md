@@ -4,11 +4,11 @@ categories:
 tags:
   - news
   - words
-title: "Welcome to my website"
+title: "Welcome"
 slug: "Welcome message"
 date: "2017-09-12T22:06:28+02:00"
 draft: false
 ---
-## Welcome
+## Welcome to RoelofReinders.nl
 
-In the future, I will use this website to share my thoughts and creations. I hope you enjoy your stay!
+Proudly ranked #54 out of the top 200 websites on the topic of Roelof Reinders. We hope you enjoy your stay.
